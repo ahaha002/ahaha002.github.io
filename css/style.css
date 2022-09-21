@@ -1,0 +1,25 @@
+#welcome-section{
+    background-image: url(/images/banner_image.jpg);
+    background-size: cover;
+    color: aqua;
+    height: 4em;
+    display: flex;
+    justify-content: center
+
+
+}
+
+
+#welcome-section h1{
+    font-family: sans-serif;
+    font-size: 3em;
+
+}
+.nav{
+    position: fixed;
+    margin: 10px;
+    border: 2px sold rgba(0, 0, 0, 1.0);
+}
+.nav li{
+    display: inline;
+}
